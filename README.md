@@ -1,5 +1,5 @@
 # QuickLogger PHP Class
-QuickLogger class for PHP with text formatting
+QuickLogger is a simple logger class with text formatting for PHP.
 
 ## Usage
 ### Syntax
